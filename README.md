@@ -10,10 +10,3 @@ A simple app to track weekly expenses.
 <img src="https://github.com/danuhadi-w/expense_app/assets/131933367/f2c63549-66b3-4c30-87fb-9c799ce16ded" width="25%" height="25%" class="my-image">
 
 <img src="https://github.com/danuhadi-w/expense_app/assets/131933367/a3953d5d-8db8-4ebf-a39a-49734f4764e7" width="25%" height="25%" class="my-image">
-
-<style>
-    .my-image {
-        margin-right: 100px;
-    }
-</style>
-
